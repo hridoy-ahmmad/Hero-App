@@ -4,6 +4,7 @@ import appstore from '../../assets/appstore.svg'
 import heroImg from '../../assets/hero.png'
 
 import { NavLink } from 'react-router';
+import HomeReview from '../../Components/HomeReview/HomeReview';
 
 const Home = () => {
     return (
@@ -26,6 +27,9 @@ const Home = () => {
                     <img src={heroImg} alt="Hero Image" />
                 </div>
             </div>
+           <div className='bg-gradient-to-br from-[#632EE3] to-[#9F62F2]'>
+             <HomeReview></HomeReview>
+           </div>
         </div>
     );
 };

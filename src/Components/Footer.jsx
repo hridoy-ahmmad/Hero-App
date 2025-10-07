@@ -1,12 +1,13 @@
 import React from 'react';
 import logo from '../assets/logo.png'
+import { NavLink } from 'react-router';
 
 const Footer = () => {
     return (
-        <div>
+        <div className=''>
             <footer className="footer sm:footer-horizontal  text-base-content p-10 max-w-7xl mx-auto">
                 <aside >
-                    <img width={'100px'} src={logo} alt="" />
+                   <NavLink to={'/'}><img width={'100px'} src={logo} alt="" /></NavLink> 
                     <p className='font-extrabold'>
                         Programming Hero
                     </p>
@@ -38,8 +39,8 @@ const Footer = () => {
                 </nav>
             
             </footer>
-            <aside className='text-center'>
-                <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+            <aside className='text-center border-t-1 border-[#1313131a] p-5'>
+                <p className='text-[#13131394]'>Copyright © {new Date().getFullYear()} - All right reserved by Programming hero team</p>
             </aside>
         </div>
     );
