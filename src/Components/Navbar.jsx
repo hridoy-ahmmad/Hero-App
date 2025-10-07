@@ -1,12 +1,12 @@
-import React, { useState } from 'react';
 import { NavLink } from 'react-router';
 import logo from '../assets/logo.png'
+import github from '../assets/github.svg'
 
 const Navbar = () => {
 
 
     return (
-        <div className="navbar bg-base-100 max-w-7xl mx-auto">
+        <div className="navbar bg-base-100 max-w-7xl mx-auto flex items-center">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -32,8 +32,11 @@ const Navbar = () => {
                     <NavLink to={'/installation'} className={({ isActive }) => isActive ? 'text-transparent bg-clip-text bg-gradient-to-br from-[#632EE3] to-[#9F62F2] border-b-2 border-[#9F62F2]' : 'text-black '}>Installation</NavLink>
                 </ul>
             </div>
-            <div className="navbar-end">
-                <a className="btn">Button</a>
+            <div className="navbar-end ">
+                <NavLink to={'https://github.com/hridoy-ahmmad'} target='_blank' className="bg-gradient-to-br from-[#632EE3] to-[#9F62F2] text-white flex items-center gap-2 py-3 px-4 rounded-sm">
+                    <img src={github} alt="" />
+                    <span>Contribute</span>
+                </NavLink>
             </div>
         </div>
     );
