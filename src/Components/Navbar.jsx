@@ -6,7 +6,8 @@ const Navbar = () => {
 
 
     return (
-        <div className="navbar bg-base-100 max-w-7xl mx-auto flex items-center">
+        <div className='border-b border-[#13131323]'>
+            <div className="navbar bg-base-100  max-w-7xl mx-auto flex items-center">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -26,7 +27,7 @@ const Navbar = () => {
                 </NavLink>
             </div>
             <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1 flex gap-4  text-[16px] font-bold ">
+                <ul className="menu menu-horizontal px-1 flex gap-8  text-[16px] font-bold ">
                     <NavLink to={'/'} className={({ isActive }) => isActive ? 'text-transparent bg-clip-text bg-gradient-to-br from-[#632EE3] to-[#9F62F2] border-b-2 border-[#9F62F2]' : 'text-black '}>Home</NavLink>
                     <NavLink to={'/apps'} className={({ isActive }) => isActive ? 'text-transparent bg-clip-text bg-gradient-to-br from-[#632EE3] to-[#9F62F2] border-b-2 border-[#9F62F2]' : 'text-black '}>Apps</NavLink>
                     <NavLink to={'/installation'} className={({ isActive }) => isActive ? 'text-transparent bg-clip-text bg-gradient-to-br from-[#632EE3] to-[#9F62F2] border-b-2 border-[#9F62F2]' : 'text-black '}>Installation</NavLink>
@@ -35,9 +36,10 @@ const Navbar = () => {
             <div className="navbar-end ">
                 <NavLink to={'https://github.com/hridoy-ahmmad'} target='_blank' className="bg-gradient-to-br from-[#632EE3] to-[#9F62F2] text-white flex items-center gap-2 py-3 px-4 rounded-sm">
                     <img src={github} alt="" />
-                    <span>Contribute</span>
+                    <span className='font-bold'>Contribute</span>
                 </NavLink>
             </div>
+        </div>
         </div>
     );
 };

@@ -11,7 +11,7 @@ const Footer = () => {
                         Programming Hero
                     </p>
                     <div >
-                        Our mission is to provide personalized learning, 
+                        Our mission is to provide personalized learning,
                         <br />develop skills,
                         and empower individuals to kick-start their careers.
                     </div>
@@ -36,7 +36,11 @@ const Footer = () => {
                     <a className="link link-hover">Privacy policy</a>
                     <a className="link link-hover">Cookie policy</a>
                 </nav>
+            
             </footer>
+            <aside className='text-center'>
+                <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+            </aside>
         </div>
     );
 };
