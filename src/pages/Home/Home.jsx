@@ -14,11 +14,9 @@ const Home = () => {
         <div className=' bg-[#d2d2d227]'>
             <Hero></Hero>
             <HomeReview></HomeReview>
-
             {
                 appDatum.map(appData => <AppCard appData={appData}></AppCard>)
             }
-
         </div>
 
     );
