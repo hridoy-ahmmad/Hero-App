@@ -1,0 +1,359 @@
+[
+  {
+    "image": "https://picsum.photos/200/300?1",
+    "title": "TaskMaster",
+    "companyName": "TechNova",
+    "id": 1,
+    "description": "TaskMaster is a powerful productivity tool designed to help individuals and teams organize their daily tasks with ease. With reminders, smart scheduling, and real-time progress tracking, it ensures that nothing slips through the cracks. Stay focused, stay organized, and get more done every day.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 620 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?2",
+    "title": "PhotoSnap",
+    "companyName": "PixelWorks",
+    "id": 2,
+    "description": "PhotoSnap allows users to capture stunning photos, apply professional filters, and share their moments with the world. The app includes advanced editing tools, AI enhancements, and seamless cloud sync. Whether you're a pro or a beginner, your shots will always stand out.",
+    "size": 60,
+    "reviews": 980,
+    "ratingAvg": 4.3,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?3",
+    "title": "FitZone",
+    "companyName": "HealthPlus",
+    "id": 3,
+    "description": "FitZone is your personal digital fitness coach. It offers daily workout routines, meal planning, and real-time progress tracking to help you stay on top of your health goals. With a friendly interface and smart AI recommendations, staying fit has never been this easy.",
+    "size": 85,
+    "reviews": 2300,
+    "ratingAvg": 4.7,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1450 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?4",
+    "title": "NoteBox",
+    "companyName": "MindWorks",
+    "id": 4,
+    "description": "NoteBox is a minimal yet powerful note-taking application designed to make your thoughts, plans, and ideas easy to capture. It supports offline sync, voice notes, and intelligent search so you can find anything instantly. Perfect for students, professionals, and creators.",
+    "size": 30,
+    "reviews": 670,
+    "ratingAvg": 4.1,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?5",
+    "title": "ShopEasy",
+    "companyName": "MarketFlow",
+    "id": 5,
+    "description": "ShopEasy revolutionizes online shopping with lightning-fast search, secure payments, and a massive collection of top brands. From daily essentials to exclusive deals, everything is just a tap away. Enjoy a smooth shopping experience like never before.",
+    "size": 90,
+    "reviews": 5000,
+    "ratingAvg": 4.8,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?6",
+    "title": "TravelBuddy",
+    "companyName": "GlobeTrek",
+    "id": 6,
+    "description": "TravelBuddy makes trip planning fun and effortless. Explore destinations, create custom itineraries, and get travel tips from experts. With real-time flight and hotel info, your next adventure is always one step closer.",
+    "size": 72,
+    "reviews": 1800,
+    "ratingAvg": 4.4,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 890 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?7",
+    "title": "MusicWave",
+    "companyName": "SoundCraft",
+    "id": 7,
+    "description": "MusicWave gives you access to millions of tracks from around the world. Create playlists, discover trending artists, and enjoy ad-free streaming with crystal-clear sound quality. Your favorite music is always with you.",
+    "size": 110,
+    "reviews": 3500,
+    "ratingAvg": 4.6,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1850 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?8",
+    "title": "Foodiez",
+    "companyName": "QuickEats",
+    "id": 8,
+    "description": "Foodiez connects you with your favorite local restaurants and delivers your meals fast and fresh. Browse menus, track orders in real-time, and enjoy exclusive discounts. It’s the easiest way to satisfy your cravings.",
+    "size": 95,
+    "reviews": 4200,
+    "ratingAvg": 4.3,
+    "downloads": 2750000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?9",
+    "title": "EduSmart",
+    "companyName": "BrainyApps",
+    "id": 9,
+    "description": "EduSmart is an interactive learning platform that helps students build skills through engaging lessons, quizzes, and live sessions. With expert mentors and personalized recommendations, learning becomes smarter and more enjoyable.",
+    "size": 65,
+    "reviews": 1400,
+    "ratingAvg": 4.5,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?10",
+    "title": "BookNest",
+    "companyName": "ReadMore",
+    "id": 10,
+    "description": "BookNest brings an entire library to your pocket. Read and download thousands of books across genres, sync your reading progress, and join a global community of book lovers. Perfect for passionate readers.",
+    "size": 50,
+    "reviews": 890,
+    "ratingAvg": 4.2,
+    "downloads": 360000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?11",
+    "title": "ShopLine",
+    "companyName": "ClickMall",
+    "id": 11,
+    "description": "ShopLine offers thousands of top brands with unbeatable deals. Get fast delivery, secure payments, and smart recommendations tailored to your preferences. Shopping has never been more exciting and convenient.",
+    "size": 88,
+    "reviews": 2400,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1350 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?12",
+    "title": "Learnify",
+    "companyName": "EduGrow",
+    "id": 12,
+    "description": "Learnify makes learning fun and effective. It offers a wide range of courses, interactive lessons, and gamified challenges. Whether you're upskilling or just exploring, there's something for everyone.",
+    "size": 75,
+    "reviews": 1100,
+    "ratingAvg": 4.3,
+    "downloads": 700000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?13",
+    "title": "FinancePro",
+    "companyName": "FinTechly",
+    "id": 13,
+    "description": "FinancePro helps you manage your income, expenses, and savings with ease. It provides smart insights, budget plans, and financial reports to keep your goals on track. Your money, simplified.",
+    "size": 68,
+    "reviews": 950,
+    "ratingAvg": 4.0,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?14",
+    "title": "CookBook",
+    "companyName": "TastyHome",
+    "id": 14,
+    "description": "CookBook is the ultimate recipe app for home chefs. Explore thousands of step-by-step recipes, save your favorites, and share your creations. From beginners to pros, cooking is made easy.",
+    "size": 55,
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?15",
+    "title": "MindCalm",
+    "companyName": "ZenLabs",
+    "id": 15,
+    "description": "MindCalm helps you meditate, sleep better, and reduce stress with soothing audio and breathing exercises. Personalize your sessions and bring peace to your daily routine.",
+    "size": 70,
+    "reviews": 1500,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 780 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?16",
+    "title": "DailyNews",
+    "companyName": "InfoPulse",
+    "id": 16,
+    "description": "DailyNews brings you the latest global updates, breaking stories, and in-depth analysis. Customize your feed to stay informed on what matters most to you.",
+    "size": 48,
+    "reviews": 2200,
+    "ratingAvg": 4.1,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 870 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?17",
+    "title": "SecureVault",
+    "companyName": "LockTech",
+    "id": 17,
+    "description": "SecureVault is a next-generation password manager built to protect your sensitive data. With end-to-end encryption and biometric authentication, your information stays safe and accessible only to you.",
+    "size": 35,
+    "reviews": 400,
+    "ratingAvg": 4.6,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?18",
+    "title": "MovieBox",
+    "companyName": "Streamly",
+    "id": 18,
+    "description": "MovieBox offers unlimited streaming of top movies and TV shows. With personalized recommendations, offline downloads, and 4K support, your entertainment experience reaches a whole new level.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.4,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?19",
+    "title": "Weatherly",
+    "companyName": "SkyCast",
+    "id": 19,
+    "description": "Weatherly provides hyper-accurate forecasts, storm alerts, and live radar updates. Its clean interface and real-time data make it the ultimate weather companion.",
+    "size": 42,
+    "reviews": 1300,
+    "ratingAvg": 4.0,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200/300?20",
+    "title": "GameHub",
+    "companyName": "PlayVerse",
+    "id": 20,
+    "description": "GameHub is the ultimate platform for discovering and playing trending mobile games. Get personalized recommendations, join global leaderboards, and play with friends in real time. Level up your gaming journey.",
+    "size": 150,
+    "reviews": 8000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2"}
+      ]
+    }
+]
