@@ -6,6 +6,7 @@ import Installation from "../pages/Installation/Installation";
 
 
 
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -18,12 +19,14 @@ const router = createBrowserRouter([
         },
         {
             path:'/apps',
+             loader:()=>fetch('/data.json'),
             Component:Apps
         },
         {
             path:'/installation',
             Component:Installation
         },
+    
 
     ]
   },
