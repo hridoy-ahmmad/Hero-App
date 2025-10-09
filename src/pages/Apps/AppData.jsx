@@ -8,7 +8,7 @@ const AppData = ({data}) => {
     
     return (
         <div className='bg-white rounded-sm p-4'>
-                    <img className='h-[316px] mx-auto w-[316px] rounded-xl' src={image} alt="" />
+                    <img className='h-[316px] bg-amber-200 mx-auto w-[316px] rounded-xl' src={image} alt="" />
                     <div className='py-5'>
                         <p className='text-[20px]  font-medium'>
                             {

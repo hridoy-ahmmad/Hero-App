@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://picsum.photos/200/300?1",
+    "image": "../src/assets/CardPhoto/Untitled.jpeg",
     "title": "TaskMaster",
     "useCase": "Organize daily tasks with smart reminders",
     "companyName": "TechNova",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?2",
+    "image": "../src/assets/CardPhoto/images.jpeg",
     "title": "PhotoSnap",
     "useCase": "Capture moments with stunning photo filters",
     "companyName": "PixelWorks",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?3",
+    "image": "../src/assets/CardPhoto/fit.png",
     "title": "FitZone",
     "useCase": "Achieve fitness goals with daily workouts",
     "companyName": "HealthPlus",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?4",
+    "image": "../src/assets/CardPhoto/noteBox.png",
     "title": "NoteBox",
     "useCase": "Take quick notes anytime and anywhere",
     "companyName": "MindWorks",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?5",
+    "image": "../src/assets/CardPhoto/ShopEasy.jpeg",
     "title": "ShopEasy",
     "useCase": "Shop online faster and smarter deals",
     "companyName": "MarketFlow",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?6",
+    "image": "../src/assets/CardPhoto/TravelBuddy.jpeg",
     "title": "TravelBuddy",
     "useCase": "Plan trips easily with expert guidance",
     "companyName": "GlobeTrek",
@@ -114,7 +114,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?7",
+    "image": "../src/assets/CardPhoto/MusicWave.jpg",
     "title": "MusicWave",
     "useCase": "Listen to ad-free trending global music",
     "companyName": "SoundCraft",
@@ -133,7 +133,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?8",
+    "image": "https://img.freepik.com/free-vector/flat-design-chef-logo-collection_52683-63784.jpg?semt=ais_hybrid&w=740&q=80",
     "title": "Foodiez",
     "useCase": "Order food quickly with exclusive deals",
     "companyName": "QuickEats",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?9",
+    "image": "https://play-lh.googleusercontent.com/CE8c9Qrpi2rPJgbmtROhW5m5halV03vN2YACSJevJdw2GqpNTSFvURoHgFeMxb_gYQ",
     "title": "EduSmart",
     "useCase": "Learn smarter with interactive lessons",
     "companyName": "BrainyApps",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?10",
+    "image": "https://cdn3.f-cdn.com//files/download/282190198/black-and-white-minimalist-sig.png?width=780&height=975&fit=crop",
     "title": "BookNest",
     "useCase": "Read books anytime from your device",
     "companyName": "ReadMore",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB8s67oFOybWRudB3-fFn-dJUatZeaebJRoA&s",
     "title": "MindFocus",
     "useCase": "Meditate daily to reduce stress easily",
     "companyName": "CalmSphere",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?12",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHG8PfFS4DnWcnJfr_2RT1icsRukHykWqVA&s",
     "title": "LangGo",
     "useCase": "Learn languages easily with fun lessons",
     "companyName": "LinguaPro",
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?13",
+    "image": "https://i.pinimg.com/736x/5d/47/12/5d471225cf2e53b90b7e661df5eaf6f5.jpg",
     "title": "GameArena",
     "useCase": "Play and explore trending mobile games",
     "companyName": "PlayHub",
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?14",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2GeQLmOb9usMbErwMQJggiP62UvaZ0MyiA&s",
     "title": "FinancePro",
     "useCase": "Track expenses smartly with AI insights",
     "companyName": "Budgetly",
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?15",
+    "image": "https://play-lh.googleusercontent.com/UTSiG2IcJvvvzGiC7dczsmTfE5u5S3bhJffvp0IFBphMPnsr_qkwjjFtFo_1OdjQEB477NIC-NYjfsaQWNALlw",
     "title": "RideGo",
     "useCase": "Book rides instantly with safety assurance",
     "companyName": "UrbanMove",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?16",
+    "image": "https://cdn-1.webcatalog.io/catalog/weatherwise/weatherwise-icon-unplated.png?v=1756687331854",
     "title": "WeatherWise",
     "useCase": "Get real-time weather forecasts fast",
     "companyName": "SkyData",
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?17",
+    "image": "https://media.licdn.com/dms/image/v2/D4D0BAQGZdM5JYPfEhg/company-logo_200_200/company-logo_200_200/0/1710689957087/streamx_dev_logo?e=2147483647&v=beta&t=xO1-U-IJrnGgSJwGSdaKKmxDz0fYqRpP3eRULWwXWGU",
     "title": "StreamX",
     "useCase": "Watch shows and movies in HD streaming",
     "companyName": "VisionMax",
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200/300?18",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7lzvZIupigeqcIIT4QzBekCPyAK28P2JNA&s",
     "title": "DocuStore",
     "useCase": "Store and access important files securely",
     "companyName": "CloudSafe",
